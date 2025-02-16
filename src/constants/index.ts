@@ -20,7 +20,7 @@ export const bg: Sound[] = [
     type: 'bg',
   },
   {
-    src: 'dungeon_bg.wav',
+    src: 'dungeon_bg.mp3',
     title: 'Подземелье',
     type: 'bg',
   },
