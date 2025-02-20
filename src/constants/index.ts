@@ -49,8 +49,29 @@ export const bg: Sound[] = [
     title: 'Библиотека',
     type: 'bg',
   },
+  {
+    src: 'fireplace_bg.mp3',
+    title: 'Костер лагерь',
+    type: 'bg',
+  },
+  {
+    src: 'jungle_bg.mp3',
+    title: 'Джунгли',
+    type: 'bg',
+  },
+  {
+    src: 'forest_bg.mp3',
+    title: 'Лес',
+    type: 'bg',
+  },
+  {
+    src: 'seagulls_bg.mp3',
+    title: 'Чайки',
+    type: 'bg',
+  },
 ]
 
+// Create
 export const effects: Sound[] = [
   {
     src: 'fight_start_effect.mp3',

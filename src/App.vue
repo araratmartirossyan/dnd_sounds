@@ -26,6 +26,8 @@ const input = computed(() => {
   return mapper[activeTab.value]
 })
 
+// write a functio
+
 const layout = computed(() =>
   activeTab.value === 'Музыка' || 'Фоны' ? 'list' : 'grid'
 )
