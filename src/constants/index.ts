@@ -3,7 +3,12 @@ import type { Sound } from '../types'
 export const music: Sound[] = [
   {
     src: 'tavern_music.mp3',
-    title: 'Звуки таверны',
+    title: 'Таверна короткая',
+    type: 'music',
+  },
+  {
+    src: 'https://claim-dev.wedat.eu/sounds/Medieval%20Fantasy%20Tavern%20Music.mp3',
+    title: 'Таверна длинная',
     type: 'music',
   },
   {
